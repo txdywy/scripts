@@ -1,6 +1,7 @@
 一个快速获取/更新 Let's encrypt 证书的 shell script
 ------------
 
+例子：https://undefinedblog.com/lets-encrypt/
 调用 acme_tiny.py 认证、获取、更新证书，不需要额外的依赖。
 
 **下载到本地**
